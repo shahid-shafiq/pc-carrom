@@ -1,0 +1,1 @@
+This is the PC version of the carom board game. Up to four player could play together on LAN or you may play against computer. You can create teams and play among them.
